@@ -43,6 +43,7 @@ PGYER 提供一站式 App 内测分发平台，支持 iOS 和 Android 平台，�
 *   [CodeFever Community](https://github.com/PGYER/codefever)：一个完全开源的 Git 项目仓库管理服务。
 *   [Upload-App-API-Example](https://github.com/PGYER/upload-app-api-example)：通过 API 将 App 上传至蒲公英平台的代码示例。
 *   [AppUpdateChecker](https://github.com/PGYER/AppUpdateChecker)：通过 API 检测是否有 App 新版本的代码示例。
+*   [FIR-CLI](https://github.com/PGYER/fir-cli)：通过命令行工具将 App 上传至 FIR 平台。
 
 ## 关注我们
 
