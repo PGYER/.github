@@ -29,8 +29,8 @@ PGYER 提供一站式 App 内测分发平台，支持 iOS 和 Android 平台，�
 ## 联系我们
 
 *   **官方网站：** [https://www.pgyer.com](https://www.pgyer.com)
-*   **微信公众号：** 蒲公英开发者服务平台
 *   **邮箱：** service@pgyer.com
+*   **微信公众号：** 蒲公英开发者服务平台
 
 ## 贡献
 
